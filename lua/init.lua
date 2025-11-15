@@ -14,6 +14,16 @@ function M.setup()
         cyan    = "#6d8989",
         white   = "#e5dfd3",
 
+        comment = "#6d896d",
+        keyword = "#896d6d",
+        string  = "#89896d",
+
+        bright_red = "#a38989",
+        bright_green = "#89a389",
+        bright_yellow = "#a3a389",
+        bright_blue = "#8989a3",
+        bright_magenta = "#a389a3",
+        bright_cyan = "#a9a3a3",
     }
 
     -- highlights

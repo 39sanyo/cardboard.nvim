@@ -1,1 +1,1 @@
-require("cardbaord").setup()
+require("cardboard").setup()
